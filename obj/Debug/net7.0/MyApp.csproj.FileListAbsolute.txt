@@ -1,0 +1,15 @@
+/Users/danielalopez/MyApp/bin/Debug/net7.0/MyApp
+/Users/danielalopez/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/danielalopez/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/danielalopez/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/danielalopez/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/danielalopez/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/Users/danielalopez/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielalopez/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/danielalopez/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/danielalopez/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/danielalopez/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/danielalopez/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/danielalopez/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/danielalopez/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/danielalopez/MyApp/obj/Debug/net7.0/ref/MyApp.dll
